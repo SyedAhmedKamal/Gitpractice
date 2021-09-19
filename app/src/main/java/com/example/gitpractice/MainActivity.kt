@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("this is second dummy commit")
+        println("Last commit so far.")
     }
 }
